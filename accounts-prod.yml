@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Accounts related webhook APIs"
+  message: "Accounts related production APIs"
   contactDetails:
     name: "Nihal Sherkar - Product Owner"
     email: "{cipher}21711e4907443a53442209fcc27d7b95682cd88d4e71258ca7cc88ae37663828498c17e3f27a277c6d4eeefbff31393a"

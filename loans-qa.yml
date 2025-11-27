@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "loans related QA APIs "
+  contactDetails:
+    name: "Vinod - QA Lead"
+    email: "vinod@yash.com"
+  onCallSupport:
+    - (785) 545-6565
+    - (853) 546-3467

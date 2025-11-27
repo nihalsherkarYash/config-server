@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Accounts related webhook APIs"
+  contactDetails:
+    name: "Nihal Sherkar - Product Owner"
+    email: "nihal.jb97@gmail.com"
+  onCallSupport:
+    - (+91) 880-634-5522
+    - (+91) 935-954-8230
